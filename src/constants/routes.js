@@ -1,0 +1,1 @@
+export const API_HTTP = 'https://restcountries.com/v2/all?fields=name,region,area'
